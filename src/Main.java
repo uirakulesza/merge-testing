@@ -1,10 +1,11 @@
 public class Main {
 
-   public void method1(){
+   public String method1(){
 	   
-   
+	   return null;
    }
    
    public void method2(){
    
    }
+}
